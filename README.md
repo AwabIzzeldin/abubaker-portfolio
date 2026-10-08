@@ -62,7 +62,7 @@ _(Screenshots coming soon)_
 ## Setup & Installation
 
 ```bash
-git clone https://github.com/AwabIzzeldin/graphic-designer-portfolio
-cd graphic-designer-portfolio
+git clone https://github.com/AwabIzzeldin/abubaker-portfolio
+cd abubaker-portfolio
 npm install
 npm run dev
